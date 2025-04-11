@@ -1,13 +1,13 @@
 # YouTube-OAUTH-to-Make
-# OAuth Verification Site for Google Cloud
+# Klass-World YouTube OAuth App for Make Verification Site for Google Cloud
 
-This repository hosts a static website used for verifying the OAuth consent screen in Google Cloud. It includes:
+This repository hosts a static website used to verify the OAuth consent screen in Google Cloud. It includes:
 
 - **Homepage** with clear branding and ownership
 - **Privacy Policy**
 - **Terms of Service**
 
-These are required by Google to verify apps requesting sensitive or restricted scopes.
+Google requires these to verify apps requesting sensitive or restricted scopes.
 
 ## Live Deployment
 
